@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\fires\source\repos\final halal-gpt\final halal-gpt\complete_game.h(6,29): warning C4584: 'complete_func': base-class 'Game' is already a base-class of 'choose_func'
+C:\Users\fires\source\repos\final halal-gpt\final halal-gpt\Game.h(2,7): message : see declaration of 'Game'
+C:\Users\fires\source\repos\final halal-gpt\final halal-gpt\choose_game.h(3,7): message : see declaration of 'choose_func'
+C:\Users\fires\source\repos\final halal-gpt\final halal-gpt\main.cpp(143,61): warning C4834: discarding return value of function with 'nodiscard' attribute
+LINK : fatal error LNK1104: cannot open file 'C:\Users\fires\source\repos\final halal-gpt\x64\Debug\final halal-gpt.exe'
